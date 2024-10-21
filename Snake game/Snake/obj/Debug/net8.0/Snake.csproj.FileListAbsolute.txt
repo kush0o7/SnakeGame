@@ -1,0 +1,14 @@
+/Users/kushagratandon/Documents/Snake game/Snake/bin/Debug/net8.0/Snake
+/Users/kushagratandon/Documents/Snake game/Snake/bin/Debug/net8.0/Snake.deps.json
+/Users/kushagratandon/Documents/Snake game/Snake/bin/Debug/net8.0/Snake.runtimeconfig.json
+/Users/kushagratandon/Documents/Snake game/Snake/bin/Debug/net8.0/Snake.dll
+/Users/kushagratandon/Documents/Snake game/Snake/bin/Debug/net8.0/Snake.pdb
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/Snake.AssemblyInfoInputs.cache
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/Snake.AssemblyInfo.cs
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/Snake.csproj.CoreCompileInputs.cache
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/Snake.dll
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/refint/Snake.dll
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/Snake.pdb
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/Snake.genruntimeconfig.cache
+/Users/kushagratandon/Documents/Snake game/Snake/obj/Debug/net8.0/ref/Snake.dll
